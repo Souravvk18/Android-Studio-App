@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Digital Earning Tips Tricks for Beginners</string>
+
+    <string-array name="Bloging_Guide">
+        <item> How to Start a Blog </item>
+        <item>  Choose a Niche For Your Blog </item>
+        <item> Choose Blogging Platform </item>
+        <item> Choose Best Domain-Hosting </item>
+        <item> Problems with Free Blog </item>
+        <item> Profitable Blog Niches </item>
+        <item> No Content,No SEO Niche </item>
+        <item> Find Idea For Blog Content </item>
+        <item> Write Engaging Blog Post </item>
+        <item> Best Article Format </item>
+        <item> Useful Blogging Tools </item>
+        <item> Some free Hosting Service </item>
+        <item> Micre Niche Blog Idea </item>
+        <item> Blogging Mistake to Avoid </item>
+        <item> Generate Traffic to Blog </item>
+        <item> How to Promote your Blog </item>
+        <item> How To Monitize Your Blog </item>
+
+
+    </string-array>
+
+    <string-array name="Seo_Tips">
+        <item> Chrome Extension For SEO </item>
+        <item> Free Keyword Research Tools </item>
+        <item> Best Keyword Research Tools </item>
+        <item> Best SEO Tools for Bloggers </item>
+        <item> Backlinks Checker Tools </item>
+        <item> SEO Auditing Tools </item>
+        <item> Do On Page SEO </item>
+        <item> Google Trend Keyword Research </item>
+        <item> Do Off Page SEO </item>
+        <item> OutReach Bloggers for Link Building </item>
+
+    </string-array>
+
+    <string-array name="Affiliate_Marketing">
+        <item>Types of Digital Marketing </item>
+        <item>Types of Facebook Ads Campaign </item>
+        <item>Start Your Affiliate Marketing Journey </item>
+        <item> Best Paying Affiliate Programs </item>
+        <item>Practical Affiliate Marketing Tips </item>
+        <item> Best Chrome Extension for Email Marketing </item>
+        <item>Guide For Email Marketing </item>
+        <item> Amazon Affiliate Program </item>
+        <item> Successful Marketer Should know </item>
+        <item> ClickBink Affiliate Program </item>
+        <item> some Affiliate marketing Tips </item>
+        <item> How to Promote Affiliate link </item>
+        <item>Types Of Paid Advertising </item>
+        <item> Some Affiliate Marketing Myths </item>
+
+    </string-array>
+
+    <string-array name="Digital_Earning">
+
+        <item> Make Money with Facebook </item>
+        <item> Make Money with Instagram </item>
+        <item> Profitable Instagram Niche </item>
+        <item> Best Freelancing Website </item>
+        <item> Make Money on Fiver </item>
+        <item>Best Fiver Gigs nd Idea </item>
+        <item> Make Money with Amazon Affiliate </item>
+        <item> Make Money as a Content Writer </item>
+        <item> Make Money with YouTube </item>
+        <item>Promote YouTube Channel </item>
+        <item> Make Money from Blogging </item>
+        <item> Make Money through Social Media </item>
+        <item> Make Money as a App Developer </item>
+        <item> Monitize Your Programming Skills </item>
+        <item> Programming Job with Big Salary </item>
+
+
+    </string-array>
+
+    <string-array name="Programming">
+        <item>Most Popular Programming Languages </item>
+        <item>Be a Web Developer </item>
+        <item>Best Web Development Learning Site </item>
+        <item> Best Resources To Learn Coding </item>
+        <item> Learn Ethical hacking </item>
+        <item>Learn Machine Learning </item>
+        <item> Learn Microsoft Excel </item>
+        <item>Be a Frontend Developer </item>
+        <item> Be a Backend Developer </item>
+        <item> Be a Gaming Programmer </item>
+        <item> Best Website To Learn Code </item>
+        <item> Learn App Development  </item>
+        <item> Be a Software Engineer </item>
+        <item>Be a Smart Programmer </item>
+        <item> Best Tech Skills To learn </item>
+
+
+    </string-array>
+
+
+</resources>
